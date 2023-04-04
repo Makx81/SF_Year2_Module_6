@@ -2,7 +2,7 @@
 
 Практика к 6-му юниту 2-го года обучения
 
-Selenium_practic1.ipynb
+Selenium_practic_1.ipynb
 
 В задании требуется сделать парсинг викторины на сайте https://tproger.ru/quiz/real-programmer с использованием selenium'а.
 
@@ -12,7 +12,7 @@ Selenium_practic1.ipynb
 
 Для сохранения результатов будут использованы 3 списка, которые возвращаются функцией.
 
-Selenium_practic2.ipynb
+Selenium_practic_2.ipynb
 
 Пробуем однопоточность и многопоточность для парсинга https://news.ycombinator.com.
 
